@@ -1,4 +1,4 @@
-# Entry 2: Learning the CodeAI
+# Entry 2: Learning the OpenAI
 ##### 12/12/2022
 
 It has been a month since I decided to use [OpenAI GPT-3](https://openai.com/api/) as my freedom project tool. I had been tinkering with OpenAI GPT-3 for the past month by using the built-in sandbox for OpenAI. I was able to try different projects that had been made by others using this program which was interesting since I can see the different capabilities of this program. OpenAI GPT-3 can translate the user's input, and return an output of the translation version. It is also a bit more adventurous by adding its ideas, for example creating a slogan by using only a few words from the user's input. After trying others' projects, I decided to take a deeper dive into the coding aspect of OpenAI GPT-3.
