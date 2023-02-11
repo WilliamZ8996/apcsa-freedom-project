@@ -1,7 +1,13 @@
-# Entry 3
-##### X/X/XX
+# Entry 3: Using OpenAI GPT-3
+##### 2/6/2023
 
-Text
+After a couple of months learning about how does [OpenAI GPT-3](https://openai.com/api/) work, and the basic functionalities of it, it was time to put my hands onto this project. Especially after watching many different tutorials over the winter break and the past month, it gave me a good sense of the capabilities of machine learning. So through all the tinkering, I was able to get a good sense of how does things like temperature, models, tokens, and prompts work. They will become really important to impliment into my project in order for things to work the right way, or at least the way I want it to. 
+
+
+The step for the [Engineering Design Process] (https://hstatsep.github.io/students/#edp) that I am currently working on is both brainstorming the possible solutions while planning the solution. As I continue to learn about the possibilities of OpenAI, I am also putting a plan in place about how my project will look and do. Each tutorials that I was able to watch, there was something new that I was able to learn. From each new thing that I was able to learn, I also thought about how I could try to include it into my project. Since there were a lot of different concepts and possibilities, it might be too hard to include all of them but I would try to include as much as I can along the way. At the moment I find it more helpful to get a rough working project down, that was able to do the things that I am looking for. In the near future after I get that down, there will be something that I can build on top on to make it better. The next step of the Engineering Design Process would be creatng and testing the prototype. I believe that by the next blog comes along, I would be able to get the rough working piece down. So I can just focus on adding more features and just running different tests on it. 
+
+One skill that I have been working on is problem decomposition. One of the biggest difficulties I have when actually starting to code a project is not knowing where to start. Unlike coding activities, there are steps that we can follow in order to meet the result. Unfortunately, since this is a freedom project there was such thing as a given step. So I had to break the problem or the code into different sections or parts. For example, I started the coding by warming up and letting myself ease in. I would give myself a simple task like just giving it a certain response and a prompt. Although it might not seem like a big deal, but starting things slow like that allow me to slowly remember the things that I remember seeing in those tutorials. As I continued coding it, things just slowly fell in place. Another skill that I was able to work on was growth mindset. Since it was hard to learn a new concept like machine learning, there was a lot of times when I would struggle or get stuck. For example, sometimes I would not be able to get the kind of response that I would want from the AI. It was frustrating at first since I wasn't able to code the AI to response exactly how I want it to, but I start to play around with the settings like temperatures, and tokens to see if it changes anything. At the end, the patience that I had with changing the settings did help me get the results that I was looking for. 
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
