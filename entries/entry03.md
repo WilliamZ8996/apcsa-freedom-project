@@ -1,7 +1,7 @@
 # Entry 3: Using OpenAI GPT-3
 ##### 2/6/2023
 
-After a couple of months of learning about how [OpenAI GPT-3](https://openai.com/api/) works, and its basic functionalities of it, it was time to put my hands on this project. Especially after watching many different tutorials over the winter break and the past month, gave me a good sense of the capabilities of machine learning. So through all the tinkering, I was able to get a good sense of how things like temperature, models, tokens, and prompts work. They will become really important to implement into my project for things to work the right way, or at least the way I want them to.
+After a couple of months of learning about how [OpenAI GPT-3](https://openai.com/api/) works, and its basic functionalities of it, it was time to put my hands on this project. Especially after watching many different [tutorials](https://www.youtube.com/watch?v=RA0C_Hh9g8Q&list=WL&index=47&t=508s) over the winter break and the past month, gave me a good sense of the capabilities of machine learning. So through all the tinkering, I was able to get a good sense of how things like temperature, models, tokens, and prompts work. They will become really important to implement into my project for things to work the right way, or at least the way I want them to.
 
 During the past month, I have been adding to what I had from the last blog which was:
 ```
