@@ -4,9 +4,11 @@ config()
 import { Configuration, OpenAIApi } from "openai"
 import readline from "readline"
 
+let { myKey } = require("./secret.js");
+
 const openAi = new OpenAIApi(
   new Configuration({
-    apiKey: "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",
+    apiKey: myKey,
   })
 )
 
