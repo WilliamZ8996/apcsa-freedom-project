@@ -1,6 +1,9 @@
 # APCSA Freedom Project
 by X
 
+## Directions 
+To use the program, please git pull the code into your VS Code. Go into "mueller-sandbox" and within your terminal type "node script.js" in order to run the program. Give the program some time to run especially when you give it an input. 
+
 ## Context
 The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
 
