@@ -1,5 +1,8 @@
 # APCSA Freedom Project
-by X
+by William Zheng
+
+## Directions
+To run the program, please git pull the code into your VS Code. Go into "mueller-sandbox", and in the terminal type "node script.js." After that, you will be able to interact with the program. Please give the program some time after you input something, since it will take a while for it to run.
 
 ## Context
 The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
