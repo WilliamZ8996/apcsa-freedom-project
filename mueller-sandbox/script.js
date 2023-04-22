@@ -5,7 +5,7 @@ import { Configuration, OpenAIApi } from "openai"
 import readline from "readline"
 
 // let { myKey } = require("./secret.js");
-import { meyKey } from './secret.js'
+import { myKey } from './secret.js'
 const openAi = new OpenAIApi(
   new Configuration({
     apiKey: myKey,
